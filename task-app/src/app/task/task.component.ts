@@ -45,4 +45,6 @@ export class TaskComponent implements OnInit {
   trackByTaskId(index: number, task: Task): string {
     return task.id || index.toString();
   }
+
+  
 }
