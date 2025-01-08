@@ -29,15 +29,18 @@ builder.Services.AddScoped(typeof(InterfaceGeneric<>), typeof(RepositorioGeneric
 builder.Services.AddScoped(typeof(RepositoryBase<>));  // Mantém o genérico
 builder.Services.AddScoped<RepositoryBase<TaskEntity>>();
 
-// Configura o CORS para permitir solicitações do frontend Angular.
+// Configuração de CORS para permitir acesso de diferentes origens
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowSpecificOrigin",
-        policyBuilder => policyBuilder
-            .WithOrigins("http://localhost:4200") // Substitua pelo endereço do seu frontend
-            .AllowAnyHeader()
-            .AllowAnyMethod());
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
 });
+
+
 
 var app = builder.Build();
 
@@ -48,8 +51,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-// Aplica a política de CORS definida.
-app.UseCors("AllowSpecificOrigin");
+app.UseCors("AllowAll");
 
 app.UseHttpsRedirection();
 
