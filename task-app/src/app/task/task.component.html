@@ -1,0 +1,15 @@
+<div>
+  <h1>Task List</h1>
+
+  <!-- Lista de tarefas -->
+  <ul>
+    <li *ngFor="let task of tasks; trackBy: trackByTaskId">
+      <strong>{{ task.name }}</strong>
+      <p>{{ task.description }}</p>
+      <span *ngIf="task.isCompleted" class="completed">Completed</span>
+    </li>
+  </ul>
+
+  <!-- Mensagem quando não há tarefas -->
+  <p *ngIf="tasks.length === 0">No tasks available.</p>
+</div>
