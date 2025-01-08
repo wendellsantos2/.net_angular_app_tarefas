@@ -1,0 +1,32 @@
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\bin\Debug\net8.0\Domain.dll
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\bin\Debug\net8.0\Domain.pdb
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\bin\Debug\net8.0\Entities.dll
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\bin\Debug\net8.0\Entities.pdb
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\obj\Debug\net8.0\Domain.dll
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\obj\Debug\net8.0\Domain.pdb
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\bin\Debug\net8.0\Domain.dll
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\bin\Debug\net8.0\Domain.pdb
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\bin\Debug\net8.0\Entities.dll
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\bin\Debug\net8.0\Entities.pdb
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\obj\Debug\net8.0\Domain.dll
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\obj\Debug\net8.0\Domain.pdb
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Domain\obj\Debug\net8.0\ref\Domain.dll

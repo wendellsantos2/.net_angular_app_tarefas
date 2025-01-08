@@ -11,11 +11,13 @@ import { filter } from 'rxjs/operators';
   templateUrl: './task.component.html',
   styleUrls: ['./task.component.css'],
   imports: [CommonModule, FormsModule, RouterModule],
-  changeDetection: ChangeDetectionStrategy.Default, // Usa Default para garantir a atualização automática
+  changeDetection: ChangeDetectionStrategy.Default,
   providers: [TaskService]
 })
 export class TaskComponent implements OnInit {
   tasks: Task[] = []; // Lista de tarefas
+  editingTask: Task | null = null; // Tarefa em edição
+  newTaskTitle: string = ''; // Título para nova tarefa
 
   constructor(private taskService: TaskService, private router: Router) {}
 
@@ -36,15 +38,48 @@ export class TaskComponent implements OnInit {
       next: (tasks) => {
         this.tasks = tasks || [];
       },
+
+    });
+  }
+
+  // Excluir uma tarefa
+  deleteTask(id: string): void {
+    this.taskService.deleteTask(id).subscribe({
+      next: () => {
+        this.loadTasks(); // Recarrega a lista após excluir
+      },
       error: (err) => {
-        console.error('Error loading tasks:', err);
+        console.error('Error deleting task:', err);
       }
     });
+  }
+
+  // Editar uma tarefa
+  editTask(task: Task): void {
+    this.editingTask = { ...task }; // Cria uma cópia da tarefa para edição
+  }
+
+  // Salvar alterações na tarefa
+  saveTask(): void {
+    if (this.editingTask) {
+      this.taskService.updateTask(this.editingTask).subscribe({
+        next: () => {
+          this.editingTask = null; // Finaliza o estado de edição
+          this.loadTasks(); // Recarrega a lista
+        },
+        error: (err) => {
+          console.error('Error updating task:', err);
+        }
+      });
+    }
+  }
+
+  // Cancelar edição
+  cancelEdit(): void {
+    this.editingTask = null;
   }
 
   trackByTaskId(index: number, task: Task): string {
     return task.id || index.toString();
   }
-
-  
 }

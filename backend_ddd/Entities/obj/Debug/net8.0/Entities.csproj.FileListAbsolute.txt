@@ -1,0 +1,30 @@
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Entities\bin\Debug\net8.0\Entities.deps.json
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Entities\bin\Debug\net8.0\Entities.dll
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Entities\bin\Debug\net8.0\Entities.pdb
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Entities\obj\Debug\net8.0\Entities.dll
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Entities\obj\Debug\net8.0\refint\Entities.dll
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Entities\obj\Debug\net8.0\Entities.pdb
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Entities\obj\Debug\net8.0\ref\Entities.dll
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+D:\ProjetosPessoal\desafio_angular\PROJETO BACKEND .NET DDD\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Entities\bin\Debug\net8.0\Entities.deps.json
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Entities\bin\Debug\net8.0\Entities.dll
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Entities\bin\Debug\net8.0\Entities.pdb
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Entities\obj\Debug\net8.0\Entities.dll
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Entities\obj\Debug\net8.0\refint\Entities.dll
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Entities\obj\Debug\net8.0\Entities.pdb
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+D:\ProjetosPessoal\desafio_angular\.net_angular_app_tarefas\.NET_DDD\Entities\obj\Debug\net8.0\ref\Entities.dll
